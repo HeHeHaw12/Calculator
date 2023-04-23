@@ -37,6 +37,6 @@ elif operator == "%":
     print(first_number * 0.01)
 
 else:
-    print(" Error: Please type a mathematical symbol
+    print("Error: Please type a mathematical symbol")
 
 
