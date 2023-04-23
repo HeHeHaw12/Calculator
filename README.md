@@ -1,5 +1,5 @@
 # Calculator
-Simple Calculator that calculates numbers.
+A Simple Calculator that calculates numbers.
 
 
 
